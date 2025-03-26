@@ -1,0 +1,9 @@
+.progress-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  progress {
+    width: 150px;
+    height: 20px;
+  }
+  
